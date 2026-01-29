@@ -76,13 +76,9 @@ To build the project:
 
 ## 👤 Author & Contact
 
-**Azterisk** - *Student & Software Developer*
+**Alec Brandt (Azterisk)** - *Student & Software Developer*
 
 I am currently a student focusing on **Software Testing, Systems Analysis, and C++ Development**. I am actively looking for opportunities to apply my skills in audio software, tool development, or systems engineering.
-
-* **GitHub:** [Your GitHub Profile Link]
-* **Email:** [Your Email Address]
-* **LinkedIn:** [Your LinkedIn Profile Link]
 
 ---
 *Built with JUCE. MIT License.*
