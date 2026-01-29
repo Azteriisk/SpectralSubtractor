@@ -1,0 +1,20 @@
+# JUCE / Build folders
+Builds/
+JuceLibraryCode/
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.opendb
+*.pdb
+*.ipch
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Layout files
+*.jucer.user
