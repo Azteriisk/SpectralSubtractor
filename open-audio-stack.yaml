@@ -1,0 +1,14 @@
+name: Spectral Subtractor
+description: A Real-Time Spectral Subtraction VST3 Plugin & Audio Analysis Study.
+author: Alec Brandt (Azterisk)
+license: MIT
+tags:
+  - audio
+  - dsp
+  - vst3
+  - juce
+platform:
+  - windows
+  - macos
+  - linux
+type: plugin
